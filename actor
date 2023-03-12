@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T06:53:54.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="pPQh8WWVRn8n8OLPzUD8" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T07:02:45.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="EHPmzas3yN9MY0Xz8DJ3" version="21.0.6" type="github" pages="2">
   <diagram name="페이지-1" id="9lAmMJsZ09U6ZoFiIVl1">
     <mxGraphModel dx="899" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,14 @@
         <mxCell id="8K85pLUcWzpafdq6zZ6v-11" value="Actor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8K85pLUcWzpafdq6zZ6v-20">
           <mxGeometry x="160" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QlbjfdPRfG1A6SHtRFRd" name="페이지-2">
+    <mxGraphModel dx="899" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
